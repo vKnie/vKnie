@@ -1,12 +1,6 @@
 <div align="center">
 
-# 👋 Salut, je suis vKnie
-
-## Développeur Full Stack Web & Systèmes
-
 ---
-
-## 🛠️ Stack Technique
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -20,15 +14,11 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=vKnie&show_icons=true&theme=default&hide_border=true)
 
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=vKnie&layout=compact&theme=default&hide_border=true)
 
 ---
-
-## 📈 Cartes Résumé
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKnie&theme=default)
 
