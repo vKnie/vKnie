@@ -14,12 +14,6 @@
 
 ##
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=vKnie&show_icons=true&theme=default&hide_border=true)
-
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=vKnie&layout=compact&theme=default&hide_border=true)
-
-##
-
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKnie&theme=default)
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vKnie&theme=default)
