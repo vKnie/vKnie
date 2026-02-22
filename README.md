@@ -19,7 +19,4 @@
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vKnie&theme=default)
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vKnie&theme=default)
 
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vKnie&theme=default)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vKnie&theme=default&utcOffset=1)
-
 </div>
